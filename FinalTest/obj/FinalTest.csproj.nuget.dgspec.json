@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj": {}
+    "C:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj": {}
   },
   "projects": {
-    "c:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj": {
+    "C:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj",
+        "projectUniqueName": "C:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj",
         "projectName": "FinalTest",
-        "projectPath": "c:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj",
+        "projectPath": "C:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\FinalTest.csproj",
         "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\obj\\",
+        "outputPath": "C:\\Users\\MSI\\Desktop\\Final test for the main block\\FinalTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config"

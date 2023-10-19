@@ -1,0 +1,5 @@
+C:\Users\MSI\Desktop\Final test for the main block\FinalTest\obj\Debug\net6.0\FinalTest.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Final test for the main block\FinalTest\obj\Debug\net6.0\FinalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\Final test for the main block\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\Final test for the main block\FinalTest\obj\Debug\net6.0\FinalTest.AssemblyInfo.cs
+C:\Users\MSI\Desktop\Final test for the main block\FinalTest\obj\Debug\net6.0\FinalTest.csproj.CoreCompileInputs.cache
