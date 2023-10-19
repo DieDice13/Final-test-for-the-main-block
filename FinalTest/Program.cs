@@ -16,3 +16,23 @@ for (int i = 0; i < strings.Length; i++)
         count++;
     }
 }
+
+// Создаем новый массив с нужной длиной
+string[] newArray = new string[count];
+
+// Заполняем новый массив строками из исходного массива, длина которых меньше или равна 3
+int j = 0;
+for (int i = 0; i < strings.Length; i++)
+{
+    if (strings[i].Length <= 3)
+    {
+        newArray[j] = strings[i];
+        j++;
+    }
+}
+
+// Выводим новый массив на экран
+for (int i = 0; i < newArray.Length; i++)
+{
+    Console.WriteLine(newArray[i]);
+}
